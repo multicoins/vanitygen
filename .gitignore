@@ -1,5 +1,7 @@
 *.oclbin
 *.o
+*.obj
+*.pdb
 keyconv
 oclvanitygen
 oclvanityminer
