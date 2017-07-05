@@ -4,3 +4,7 @@ keyconv
 oclvanitygen
 oclvanityminer
 vanitygen
+pcre-4.4-static
+Pre-built.2
+pthreads.2
+Makefile.Win32
